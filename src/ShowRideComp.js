@@ -201,7 +201,7 @@ class Ride extends React.Component {
     }
 
     render() {
-        console.log("Book ride render")
+        console.log("Book ride render ")
         store.subscribe(() => this.setState({
             ride: store.getState().ride,
             rides: store.getState().rides,
