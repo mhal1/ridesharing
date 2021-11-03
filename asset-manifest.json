@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ridesharing/static/css/main.5dda0391.chunk.css",
-    "main.js": "/ridesharing/static/js/main.3c8413b7.chunk.js",
-    "main.js.map": "/ridesharing/static/js/main.3c8413b7.chunk.js.map",
-    "runtime-main.js": "/ridesharing/static/js/runtime-main.e7665083.js",
-    "runtime-main.js.map": "/ridesharing/static/js/runtime-main.e7665083.js.map",
-    "static/js/2.521df401.chunk.js": "/ridesharing/static/js/2.521df401.chunk.js",
-    "static/js/2.521df401.chunk.js.map": "/ridesharing/static/js/2.521df401.chunk.js.map",
-    "static/js/3.5d9b007b.chunk.js": "/ridesharing/static/js/3.5d9b007b.chunk.js",
-    "static/js/3.5d9b007b.chunk.js.map": "/ridesharing/static/js/3.5d9b007b.chunk.js.map",
-    "index.html": "/ridesharing/index.html",
-    "static/css/main.5dda0391.chunk.css.map": "/ridesharing/static/css/main.5dda0391.chunk.css.map",
-    "static/js/2.521df401.chunk.js.LICENSE.txt": "/ridesharing/static/js/2.521df401.chunk.js.LICENSE.txt",
-    "static/media/img_bg.123dae39.png": "/ridesharing/static/media/img_bg.123dae39.png",
-    "static/media/mamg2.672ab6d2.jpg": "/ridesharing/static/media/mamg2.672ab6d2.jpg",
-    "static/media/maybach.0acf4d2c.jpeg": "/ridesharing/static/media/maybach.0acf4d2c.jpeg"
+    "main.css": "//ridesharing/static/css/main.5dda0391.chunk.css",
+    "main.js": "//ridesharing/static/js/main.7bb9a4f1.chunk.js",
+    "main.js.map": "//ridesharing/static/js/main.7bb9a4f1.chunk.js.map",
+    "runtime-main.js": "//ridesharing/static/js/runtime-main.989c3f70.js",
+    "runtime-main.js.map": "//ridesharing/static/js/runtime-main.989c3f70.js.map",
+    "static/js/2.521df401.chunk.js": "//ridesharing/static/js/2.521df401.chunk.js",
+    "static/js/2.521df401.chunk.js.map": "//ridesharing/static/js/2.521df401.chunk.js.map",
+    "static/js/3.5d9b007b.chunk.js": "//ridesharing/static/js/3.5d9b007b.chunk.js",
+    "static/js/3.5d9b007b.chunk.js.map": "//ridesharing/static/js/3.5d9b007b.chunk.js.map",
+    "index.html": "//ridesharing/index.html",
+    "static/css/main.5dda0391.chunk.css.map": "//ridesharing/static/css/main.5dda0391.chunk.css.map",
+    "static/js/2.521df401.chunk.js.LICENSE.txt": "//ridesharing/static/js/2.521df401.chunk.js.LICENSE.txt",
+    "static/media/img_bg.123dae39.png": "//ridesharing/static/media/img_bg.123dae39.png",
+    "static/media/mamg2.672ab6d2.jpg": "//ridesharing/static/media/mamg2.672ab6d2.jpg",
+    "static/media/maybach.0acf4d2c.jpeg": "//ridesharing/static/media/maybach.0acf4d2c.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7665083.js",
+    "static/js/runtime-main.989c3f70.js",
     "static/js/2.521df401.chunk.js",
     "static/css/main.5dda0391.chunk.css",
-    "static/js/main.3c8413b7.chunk.js"
+    "static/js/main.7bb9a4f1.chunk.js"
   ]
 }
