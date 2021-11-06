@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ridesharing/static/css/main.5dda0391.chunk.css",
-    "main.js": "/ridesharing/static/js/main.0a6e3420.chunk.js",
-    "main.js.map": "/ridesharing/static/js/main.0a6e3420.chunk.js.map",
+    "main.css": "/ridesharing/static/css/main.2d20790e.chunk.css",
+    "main.js": "/ridesharing/static/js/main.579d6092.chunk.js",
+    "main.js.map": "/ridesharing/static/js/main.579d6092.chunk.js.map",
     "runtime-main.js": "/ridesharing/static/js/runtime-main.e7665083.js",
     "runtime-main.js.map": "/ridesharing/static/js/runtime-main.e7665083.js.map",
     "static/js/2.521df401.chunk.js": "/ridesharing/static/js/2.521df401.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.5d9b007b.chunk.js": "/ridesharing/static/js/3.5d9b007b.chunk.js",
     "static/js/3.5d9b007b.chunk.js.map": "/ridesharing/static/js/3.5d9b007b.chunk.js.map",
     "index.html": "/ridesharing/index.html",
-    "static/css/main.5dda0391.chunk.css.map": "/ridesharing/static/css/main.5dda0391.chunk.css.map",
+    "static/css/main.2d20790e.chunk.css.map": "/ridesharing/static/css/main.2d20790e.chunk.css.map",
     "static/js/2.521df401.chunk.js.LICENSE.txt": "/ridesharing/static/js/2.521df401.chunk.js.LICENSE.txt",
     "static/media/img_bg.123dae39.png": "/ridesharing/static/media/img_bg.123dae39.png",
     "static/media/mamg2.672ab6d2.jpg": "/ridesharing/static/media/mamg2.672ab6d2.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.e7665083.js",
     "static/js/2.521df401.chunk.js",
-    "static/css/main.5dda0391.chunk.css",
-    "static/js/main.0a6e3420.chunk.js"
+    "static/css/main.2d20790e.chunk.css",
+    "static/js/main.579d6092.chunk.js"
   ]
 }
